@@ -1,4 +1,4 @@
-# flutter_crash_course_expens_tracker
+# flutter_app_for_expense_tracker
 
 A new Flutter project.
 
