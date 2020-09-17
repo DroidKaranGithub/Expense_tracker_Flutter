@@ -13,7 +13,53 @@ class _UserTransactionState extends State<UserTransaction> {
     Transaction(
         id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
     Transaction(
-        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now())
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
+    Transaction(
+        id: '1', title: 'New shoes', amount: 90.99, date: DateTime.now()),
+    Transaction(
+        id: '2', title: 'New Cloth', amount: 33.39, date: DateTime.now()),
   ];
 
   void _addTransaction(String txTitle, double txAmount) {
